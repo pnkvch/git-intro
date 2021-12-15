@@ -18,3 +18,9 @@ Zadanie 5. Dodaj informację numerach albumów członków zespołu w dowolny mie
 Zadanie 6. (*) Zmień miejscami ćwiczenia których treść kończy się znakami `(-)` (numeracja powinna pozostać poprawna).
 Zadanie 7. Dodaj słowa `Zadania do wykonania` przed listą ćwiczeń.
 Zadanie 8. (*) Zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
+
+Numery albumów członków zespołu:
+
+- Krystian Pasiński 134140
+- Kacper Pawlak 134141
+- Artur Pinkevych 135689
